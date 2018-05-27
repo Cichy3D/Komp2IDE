@@ -1,6 +1,6 @@
 # Komp2IDE
 
-## Komp2 CPU Internal instraction set, with Komp2IDE assembler mnemonics*
+## Komp2 CPU Internal instraction set, with Komp2IDE assembler mnemonics
 
 0	0	0	0	0	0	0	0	NIL			
 
